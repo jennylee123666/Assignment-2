@@ -1,0 +1,54 @@
+﻿<Application x:Class="HRIS.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             xmlns:local="clr-namespace:HRIS.Teaching"
+             xmlns:local2="clr-namespace:HRIS.Controller"
+             xmlns:local3="clr-namespace:HRIS.View"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <local2:StaffController x:Key="StaffController"/>
+        <local:Staff x:Key="Staff"/>
+        <local:UnitClass x:Key="UnitClass"/>
+        <local3:ClassListView x:Key="ClassListView"/>
+        <ObjectDataProvider x:Key="StaffList" ObjectInstance="{StaticResource StaffController}" MethodName="GetViewableList"></ObjectDataProvider>
+
+        <ObjectDataProvider x:Key="Category" ObjectType="{x:Type sys:Enum}" MethodName="GetValues">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="local:Category"/>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+        <ObjectDataProvider x:Key="Campus" ObjectType="{x:Type sys:Enum}" MethodName="GetValues">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="local:Campus"/>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+        <DataTemplate x:Key="StaffListTemplate">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Path=FamilyName}"/>
+                <TextBlock Text=","/>
+                <TextBlock Text="{Binding Path=GivenName}"/>
+                <TextBlock Text="("/>
+                <TextBlock Text="{Binding Path=Title}"/>
+                <TextBlock Text=")"/>
+            </StackPanel>
+        </DataTemplate>
+        <local2:UnitController x:Key="UnitController"/>
+        <ObjectDataProvider x:Key="UnitList" ObjectInstance="{StaticResource UnitController}" MethodName="GetViewableUnitList"></ObjectDataProvider>
+        <ObjectDataProvider x:Key="ClassList" ObjectInstance="{StaticResource ClassListView}" MethodName="GetViewableClassList"></ObjectDataProvider>
+        <DataTemplate x:Key="UnitListTemplate">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" Grid.Column="0" Content="{Binding Path=Code}"/>
+                <Label Grid.Row="0" Grid.Column="1" Content="{Binding Path=Title}"/>
+            </Grid>
+        </DataTemplate>
+    </Application.Resources>
+
+</Application>

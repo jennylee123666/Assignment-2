@@ -1,0 +1,80 @@
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\bin\Debug\HRIS.exe.config
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\bin\Debug\HRIS.exe
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\bin\Debug\HRIS.pdb
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\MainWindow.baml
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\MainWindow.g.cs
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\App.g.cs
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\App.baml
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\HRIS.g.resources
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\HRIS.csproj.GenerateResource.cache
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\HRIS.csproj.CopyComplete
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\HRIS.exe
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\HRIS.pdb
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\bin\Debug\MySql.Data.dll
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\HRIS.csprojAssemblyReference.cache
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\ClashMap.g.cs
+C:\Users\ponna gaiya\Desktop\Assignment2\HRIS\HRIS\obj\Debug\ClashMap.baml
+D:\HRIS\bin\Debug\HRIS.exe.config
+D:\HRIS\bin\Debug\HRIS.exe
+D:\HRIS\bin\Debug\HRIS.pdb
+D:\HRIS\bin\Debug\MySql.Data.dll
+D:\HRIS\bin\Debug\MySql.Data.xml
+D:\HRIS\obj\Debug\HRIS.csprojResolveAssemblyReference.cache
+D:\HRIS\obj\Debug\MainWindow.baml
+D:\HRIS\obj\Debug\ClashMap.g.cs
+D:\HRIS\obj\Debug\MainWindow.g.cs
+D:\HRIS\obj\Debug\App.g.cs
+D:\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+D:\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+D:\HRIS\obj\Debug\App.baml
+D:\HRIS\obj\Debug\ClashMap.baml
+D:\HRIS\obj\Debug\HRIS.g.resources
+D:\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+D:\HRIS\obj\Debug\HRIS.csproj.GenerateResource.Cache
+D:\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+D:\HRIS\obj\Debug\HRIS.exe
+D:\HRIS\obj\Debug\HRIS.pdb
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\HRIS.exe.config
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\HRIS.exe
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\HRIS.pdb
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\MySql.Data.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\Google.Protobuf.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\Zstandard.Net.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\Renci.SshNet.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\System.Buffers.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\System.Memory.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\bin\Debug\MySql.Data.xml
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\HRIS.csprojAssemblyReference.cache
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\HRIS.exe.config
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\MainWindow.baml
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\ClashMap.g.cs
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\MainWindow.g.cs
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\App.g.cs
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\HRIS_MarkupCompile.cache
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\HRIS_MarkupCompile.lref
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\App.baml
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\ClashMap.baml
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\HRIS.g.resources
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\HRIS.Properties.Resources.resources
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\HRIS.csproj.GenerateResource.cache
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\HRIS.csproj.CoreCompileInputs.cache
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\HRIS.csproj.CopyComplete
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\HRIS.exe
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\HRIS.pdb
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\Interop.Office.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\Interop.PowerPoint.dll
+C:\Users\61478\Desktop\Assignment 2\Assignment 2\HRIS\obj\Debug\HRIS.csproj.ResolveComReference.cache
